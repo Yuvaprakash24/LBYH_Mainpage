@@ -466,6 +466,9 @@ footer{
   text-align: left;
   margin-bottom: 25px;
 }
+  .cus_col .links {
+  display: none;
+}
 }
 @media(max-width:768px)
 {
